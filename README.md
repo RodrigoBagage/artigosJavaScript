@@ -1,2 +1,3 @@
-# artigosJavaScript
+# ArtigosJavaScript
+
 Artigos JavaScript
