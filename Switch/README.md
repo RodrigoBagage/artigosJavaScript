@@ -24,6 +24,7 @@ O valor atribuído à variável mensagem será: "Boas festas, meu amigo!". A Fig
 
 switch
  ![Figura1](Figura1.png)
+ 
 Figura 1. Funcionamento da estrutura condicional switch.
 
 ## Sintaxe
